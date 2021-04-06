@@ -14,7 +14,7 @@ export default class App extends Component{
   render(){
     return(
       <View>
-        <Text>Hiii  *****I LOVE U Virus ******HIIIIIII</Text>
+        <Text>Hiii  *****I LOVE U Virus </Text>
       </View>
     );
   }
