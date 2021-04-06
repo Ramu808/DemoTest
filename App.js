@@ -15,6 +15,7 @@ export default class App extends Component{
     return(
       <View>
         <Text>Hiii Hello How are you</Text>
+        <Text>my name is devaraj</Text>
       </View>
     );
   }
